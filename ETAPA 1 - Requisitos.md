@@ -80,7 +80,7 @@ NRF010 - Manutenibilidade
 
 - **Consultar informações do aluno**
 - **✅Consultar notas**
-- **✅ Consultar faltas e percentual de frequência**
+- **✅Consultar faltas e percentual de frequência**
 - **Consultar horário das aulas**
 - **Consultar datas de avaliações**
 - **Consultar histórico acadêmico**
